@@ -1,4 +1,4 @@
-# proyecto-modelado3d-amayorga27
+# Proyecto Modelado Alejandro Mayorga
 proyecto-modelado3d-amayorga27 created by GitHub Classroom
 
 Para comenzar este proyecto me basé en el robot que realicé para la asignatura de *Mecatrónica*. Este robot lo llamamos **Crawll-e** y está compuesto de 4 piezas diferentes.
@@ -25,7 +25,11 @@ Continuamos por la base, compuesta a su vez por dos **hombros** (invertidos) y p
 
 Finalmente tenemos la carcasa, con dos huecos para los ojos, aunque en este diseño, para darle color y el efecto del ultrasonidos que posee en la realidad, se le han diseñado unas *pupilas*
 
-![Carcasa]()
+
+<p align="center">
+<img src="https://github.com/clases-julio/proyecto-modelado3d-amayorga27/blob/main/figures/shell1.png" alt="Generic version" width="400"></a>
+</p>
+
 
 
 Quedando de la siguiente manera nuestro robot:
